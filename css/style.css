@@ -19,7 +19,6 @@ a:active, a:visited, a:focus {
 	text-align: center;
 	color: #fff;
 	height: 100vh;
-	background: #000 url(../img/main-bg.jpg) center center no-repeat;
 }
 .main-overlay {
 	position: absolute;
@@ -76,8 +75,9 @@ a:active, a:visited, a:focus {
 .section-header {
 	text-transform: uppercase;
 	font-weight: 800;
-	font-size: 3.6rem;
-	margin-bottom: 5rem;
+	font-size: 4.6rem;
+	margin: 6rem;
+
 }
 .portfolio img {
 	width: 100%;
